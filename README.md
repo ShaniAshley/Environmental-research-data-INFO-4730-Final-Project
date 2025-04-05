@@ -49,7 +49,7 @@
         # Format: PDF
         # Coverage: Denton
         # Date: 2020
-        # Source: Denton Environmental Agency and Research Group
+        # Source: Dallas Environmental Agency and Research Group
         # Description: A detailed report summarizing the air quality data for 2020, including analysis of 
           trends, impacts, and recommendations.
         # Keywords: air quality, pollution analysis, report, environmental 

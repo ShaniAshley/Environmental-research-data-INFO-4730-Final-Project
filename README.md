@@ -1,6 +1,6 @@
  # EnvironmentalResearchData
 
-    ## File List
+   ## File List
       ### 1.  Satellite Imagery: Landsat 2022 Urban Area
         # Folder: collection/satellite-imagery/2022_Landsat_Imagery/
         # Filename: landsat_2022_urban_area.tif

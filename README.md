@@ -18,7 +18,7 @@
         # Format: CSV
         # Coverage: Denton, monitored at 5 air quality stations
         # Date: 2018
-        # Source: Local Environmental Agency or Monitoring Station
+        # Source: Denton Environmental Agency or Monitoring Station
         # Description: Hourly air quality measurements for 2018, including particulate matter (PM2.5), nitrogen dioxide (NO2), and carbon monoxide (CO).
         # Keywords: air quality, pollution, environmental monitoring, PM2.5, NO2, CO  
       ### 3. Biodiversity Survey Data: 2022
@@ -28,7 +28,7 @@
         # Format: XLSX
         # Coverage: Denton field sites
         # Date: 2022
-        # Source: Local biodiversity research team
+        # Source: Denton biodiversity research team
         # Description: Data from biodiversity surveys, including species counts and habitat conditions for 
           various field sites in 2022.
         # Keywords: biodiversity, species survey, field research, habitat
@@ -39,7 +39,7 @@
         # Format: CSV
         # Coverage: Denton
         # Date: 2020
-        # Source: Local weather station
+        # Source: Denton weather station
         # Description: Daily average temperature data for Denton throughout the year 2020.
         # Keywords: weather data, temperature, climate, environmental monitoring
       ### 5. Air Quality Exhibit Report (2024)

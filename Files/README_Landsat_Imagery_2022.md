@@ -1,0 +1,31 @@
+# Landsat 2022 Urban Area (Denton)
+
+##  Description
+High-resolution satellite imagery representing land use and urban development in Denton, Texas for the year 2022. Useful for urban studies, land classification, and change detection.
+
+## Folder
+`collection/satellite-imagery/2022_Landsat_Imagery/`
+
+##  Filename
+`landsat_2022_urban_area.tif`
+
+##  Data Type
+Geospatial Data (Raster)
+
+##  Format
+GeoTIFF
+
+##  Coverage
+Urban area of Denton, Texas
+
+## Date
+2022
+
+## Source
+Landsat 8 Satellite
+
+##  Keywords
+`urbanization`, `land use`, `satellite imagery`, `geospatial data`
+
+##  License
+CC BY 4.0

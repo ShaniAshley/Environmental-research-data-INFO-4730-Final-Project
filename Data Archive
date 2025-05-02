@@ -1,0 +1,11 @@
+Environmental-Data-Archive/  
+|-- collection/  
+│   |-- satellite-imagery/  
+│   |-- air-quality-data/  
+│   |-- biodiversity-surveys/  
+│   |__ weather-data/  
+|-- archive/  
+│   |__ air-quality-exhibit/  
+|__documentation/  
+    |-- calibration_logs/  
+    |__ field_methods/  

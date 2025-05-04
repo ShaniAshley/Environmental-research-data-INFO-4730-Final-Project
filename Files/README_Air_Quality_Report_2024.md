@@ -1,5 +1,3 @@
-# Air Quality Exhibit Report (2024)
-
 ##  Description
 Detailed analytical report summarizing the 2020 air quality data for Denton. Includes visualizations, historical comparisons, public health insights, and mitigation strategies.
 
